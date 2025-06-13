@@ -1,0 +1,85 @@
+[
+{
+  "model": "main.projectmodel",
+  "pk": 1,
+  "fields": {
+    "title": "Trail project",
+    "image": "image/upload/v1749789845/mif4wqf4pqkg2bqggblx.jpg",
+    "content": [
+      "some content"
+    ],
+    "tech": [
+      "some tech"
+    ],
+    "giturl": null
+  }
+},
+{
+  "model": "main.projectmodel",
+  "pk": 2,
+  "fields": {
+    "title": "trail project 2",
+    "image": "image/upload/v1749800434/utwr2ujbiftrz6odjkcq.jpg",
+    "content": [
+      "this is a tech product"
+    ],
+    "tech": [
+      "easy",
+      "python"
+    ],
+    "giturl": null
+  }
+},
+{
+  "model": "main.heromodel",
+  "pk": 1,
+  "fields": {
+    "name": "Rahul Puppala",
+    "title": "Aspiring ML Engineer",
+    "intro": "I don’t just write code—I solve problems that matter. Let’s build the future, together.",
+    "content": [
+      "Welcome — I'm an AI engineer with a deep focus on crafting scalable, production-grade solutions.",
+      "From real-time data pipelines to intelligent systems, I build tools that drive impact and efficiency.",
+      "I'm passionate about tech communities and actively working towards building spaces for shared learning and collaboration."
+    ]
+  }
+},
+{
+  "model": "main.aboutsectionmodel",
+  "pk": 1,
+  "fields": {
+    "bio": "Engineer by training, problem-solver by mindset. I thrive at the intersection of innovation, logic, and purpose.",
+    "current_focus": "Currently diving deep into AI product engineering—building scalable, efficient, and intelligent backend systems that solve real-world challenges.",
+    "hobbies": "Journaling my learnings, exploring spiritual philosophies, and staying curious about everything from code to consciousness.",
+    "content": [
+      "My journey into tech started with curiosity and evolved into a commitment to build meaningful systems.",
+      "While I'm focused on engineering, I equally value communication, empathy, and community—traits that turn coders into creators.",
+      "I believe in shipping fast, learning faster, and always leaving systems better than I found them."
+    ]
+  }
+},
+{
+  "model": "main.communitymodel",
+  "pk": 1,
+  "fields": {
+    "discord_url": null,
+    "linkedin_newletter": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7328997121049722880",
+    "twitter": "https://x.com/rahulpuppala_in",
+    "content": [
+      "I write a weekly newsletter on LinkedIn where I share insights, learning paths, and reflections on AI, backend systems, and tech careers.",
+      "The newsletter is crafted to add value for developers, learners, and tech leaders alike—short, actionable, and thought-provoking.",
+      "It’s more than content—it's my way of building a community through consistent learning and conversation."
+    ]
+  }
+},
+{
+  "model": "main.contactusmodel",
+  "pk": 1,
+  "fields": {
+    "email": "contact.rahulpuppala@gmail.com",
+    "phone": "212345564",
+    "linkedin": "https://www.linkedin.com/in/rahulpuppala/",
+    "twitter": "https://x.com/rahulpuppala_in"
+  }
+}
+]
