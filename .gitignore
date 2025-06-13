@@ -14,7 +14,7 @@ myenv/
 db.sqlite3
 
 # Static files (collected for production)
-staticfiles/
+
 
 # Environment variables
 .env
