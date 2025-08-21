@@ -62,6 +62,10 @@ MIDDLEWARE = [
 
 CORS_ALLOW_ALL_ORIGINS = True
 
+CORS_ALLOWED_ORIGINS = [
+    "https://rahulpuppala.in","https://www.rahulpuppala.in"
+]
+
 ROOT_URLCONF = 'portfolio_backend.urls'
 
 TEMPLATES = [
